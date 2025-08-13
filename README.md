@@ -35,29 +35,3 @@ Line charts for case trends over time.
 Bar charts for country comparisons.
 
 Interactive tables and plots with Plotly.
-
-🛠 Requirements
-Install the required Python libraries:
-
-bash
-Copy
-Edit
-pip install pandas numpy matplotlib seaborn plotly
-▶️ How to Run
-Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/covid19-data-analysis.git
-cd covid19-data-analysis
-Open the Jupyter Notebook:
-
-bash
-Copy
-Edit
-jupyter notebook Covid_Data_Analysis.ipynb
-Run the cells sequentially to reproduce the analysis.
-
-📜 License
-This project is licensed under the MIT License - see the LICENSE file for deta
